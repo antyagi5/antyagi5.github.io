@@ -5,7 +5,8 @@
     <link>https://antyagi5.github.io/</link>
     <description>Recent content on Ankit Tyagi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© Ankit Tyagi 2021</copyright><atom:link href="https://antyagi5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Ankit Tyagi 2021</copyright>
+    <lastBuildDate>Sat, 06 Mar 2021 17:17:47 -0500</lastBuildDate><atom:link href="https://antyagi5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://antyagi5.github.io/publications/</link>
@@ -17,12 +18,12 @@
     </item>
     
     <item>
-      <title>Coolstuff</title>
-      <link>https://antyagi5.github.io/coolstuff/</link>
+      <title>Blog</title>
+      <link>https://antyagi5.github.io/blog/</link>
       <pubDate>Sun, 24 Jan 2021 22:08:31 -0500</pubDate>
       
-      <guid>https://antyagi5.github.io/coolstuff/</guid>
-      <description>Cool Stuff This is where some of the cool stuff I am working on will be posted.</description>
+      <guid>https://antyagi5.github.io/blog/</guid>
+      <description>PyMC3 tutorial on Mixture Models In this post, I talk about using PyMC3 to create a probabilistic model to estimate parameters of a mixture model using simulated data. I have used a mixture modeling approach in the past to predict the accuracy of planar, laser-based experimental imaging for measuring flame speeds in turbulent flames. You can read more about it in this paper. For this post, I am creating synthetic data mimicking a sphere shrinking in size and moving in space, while passing through a fixed plane.</description>
     </item>
     
     <item>
