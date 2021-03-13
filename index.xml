@@ -8,6 +8,15 @@
     <copyright>© Ankit Tyagi 2021</copyright>
     <lastBuildDate>Sat, 06 Mar 2021 17:17:47 -0500</lastBuildDate><atom:link href="https://antyagi5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>PyMC3 tutorial on Mixture Models</title>
+      <link>https://antyagi5.github.io/post1pymc/</link>
+      <pubDate>Sun, 07 Mar 2021 11:13:53 -0500</pubDate>
+      
+      <guid>https://antyagi5.github.io/post1pymc/</guid>
+      <description>PyMC3 tutorial on Mixture Models 3/6/2021 • PA,USA In this post, I talk about using PyMC3 to create a probabilistic model to estimate parameters of a mixture model using simulated data. I have used a mixture modeling approach in the past to predict the accuracy of planar, laser-based experimental imaging for measuring flame speeds in turbulent flames. You can read more about it in this paper. For this post, I am creating synthetic data mimicking a sphere shrinking in size and moving in space, while passing through a fixed plane.</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://antyagi5.github.io/publications/</link>
       <pubDate>Sun, 24 Jan 2021 22:08:41 -0500</pubDate>
@@ -23,7 +32,7 @@
       <pubDate>Sun, 24 Jan 2021 22:08:31 -0500</pubDate>
       
       <guid>https://antyagi5.github.io/blog/</guid>
-      <description>PyMC3 tutorial on Mixture Models In this post, I talk about using PyMC3 to create a probabilistic model to estimate parameters of a mixture model using simulated data. I have used a mixture modeling approach in the past to predict the accuracy of planar, laser-based experimental imaging for measuring flame speeds in turbulent flames. You can read more about it in this paper. For this post, I am creating synthetic data mimicking a sphere shrinking in size and moving in space, while passing through a fixed plane.</description>
+      <description>PyMC3 tutorial on Mixture Models 3/6/2021 • PA,USA </description>
     </item>
     
     <item>
@@ -32,7 +41,7 @@
       <pubDate>Sun, 24 Jan 2021 21:52:41 -0500</pubDate>
       
       <guid>https://antyagi5.github.io/about/</guid>
-      <description>A Mechanical Engineer by training, I hold a Ph.D. focused on Experimental Combustion research. I currently work at Eriez Manufacturing as an R&amp;amp;D Digital Signal Processing Engineer and have experience working as a Process Engineer at Intel Corporation. Through the academic and industry roles that I have navigated so far, I have developed a strong skill set in experimental research, metrology, and advanced data analysis methods. My recent interests include: • Digital image and signal processing methods • Statistical data analysis, probabilistic modeling, computational problem solving • Laser diagnostics, metrology, imaging techniques • The art of espresso</description>
+      <description>A Mechanical Engineer by training, I hold a Ph.D. focused on Experimental Combustion research. I currently work at Eriez Manufacturing as an R&amp;amp;D Digital Signal Processing Engineer and have experience working as a Process Engineer at Intel Corporation. Through the academic and industry roles that I have navigated so far, I have developed a strong skill set in experimental research, metrology, and advanced data analysis methods. My recent interests include: • Computer vision, digital image and signal processing methods • Statistical data analysis, probabilistic modeling • Computational problem solving, inverse problems • Laser diagnostics, metrology, imaging techniques • The art of espresso</description>
     </item>
     
   </channel>
